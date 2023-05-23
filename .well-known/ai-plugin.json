@@ -2,8 +2,8 @@
   "schema_version": "v1",
   "name_for_model": "xano_docs_db",
   "name_for_human": "Xano Chat",
-  "description_for_model": "Use this tool to get up to date information about Xano documentation and instructions for Xano. Do not use this tool if the user did not ask about Xano.",
-  "description_for_human": "Get infromation directly from the Xano documentation.",
+  "description_for_model": "Use this tool to get up to date information about Xano from the Xano documentation. Do not use this tool if the user did not ask about Xano.",
+  "description_for_human": "Get information directly from the Xano documentation.",
   "auth": {
     "type": "user_http",
     "authorization_type": "bearer"
