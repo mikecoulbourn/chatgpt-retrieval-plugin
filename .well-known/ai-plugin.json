@@ -2,7 +2,7 @@
   "schema_version": "v1",
   "name_for_model": "xano_docs_db",
   "name_for_human": "Xano Chat",
-  "description_for_model": "Plugin for navigating through Xano's documentation to find answers to questions and retrieve relevant information. Use this tool whenever a user queries something that might be related to Xano, even when Xano isn't specifically mentioned. Explain your reasoning with your response in context to the Xano documentation.",
+  "description_for_model": "Plugin for navigating through Xano's documentation to find answers to questions and retrieve relevant information. Use this tool whenever a user asks a question that might be related to Xano, even when Xano isn't specifically mentioned.",
   "description_for_human": "Get information directly from the Xano documentation.",
   "auth": {
     "type": "user_http",
